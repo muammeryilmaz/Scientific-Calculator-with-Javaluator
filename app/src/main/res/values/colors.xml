@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <!-- Geçmiş TextView Rengi  -->
+    <color name="historyText">#838181</color>
+
+    <!-- İşlem editText Rengi  -->
+    <color name="operationText">#2C5A9D</color>
+
+    <!-- Kırmızı Buton -->
+    <color name="redButton">#FF5C12</color>
+
+    <!-- İşlem Buton -->
+    <color name="opButton">#2887C7</color>
+
+    <!-- Sayı Buton -->
+    <color name="numButton">#bdc1c0</color>
+
+    <!-- Sayı Buton -->
+    <color name="equalButton">#3C9CF7</color>
+
+    <!-- Bütün arkaplan -->
+    <color name="calcBackGround">#858585</color>
+
+    <!-- Textlerin arkaplan -->
+    <color name="textsBackGround">#2E2E2E</color>
+
+    <!-- Beyaz -->
+    <color name="white">#D9D9D9</color>
+</resources>

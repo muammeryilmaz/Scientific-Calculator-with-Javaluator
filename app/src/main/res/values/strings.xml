@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">ScientificCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="dot">.</string>
+    <string name="nextLine">\n</string>
+    <string name="_0">0</string>
+    <string name="off">off</string>
+    <string name="x_fac">x!</string>
+    <string name="arctan">arctan</string>
+    <string name="arccot">arccot</string>
+    <string name="shift">SHIFT</string>
+    <string name="reversex">1/x</string>
+    <string name="tan">tan</string>
+    <string name="cot">cot</string>
+    <string name="neg">Neg</string>
+    <string name="powof10">10^x</string>
+    <string name="e">e</string>
+    <string name="arcsin">arcsin</string>
+    <string name="arccos">arccos</string>
+    <string name="cosec">cosec</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="sin">SIN</string>
+    <string name="cos">cos</string>
+    <string name="sec">sec</string>
+    <string name="xpow3">x^3</string>
+    <string name="root3">3√x</string>
+    <string name="xrooty">x√y</string>
+    <string name="ac">AC</string>
+    <string name="xpow2">x^2</string>
+    <string name="root2">√x</string>
+    <string name="xpowy">x^y</string>
+    <string name="del">⌫</string>
+    <string name="clear">C</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="leftbrack">(</string>
+    <string name="rightbrack">)</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="div">/</string>
+    <string name="mul">x</string>
+    <string name="space"/>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="hyp">-</string>
+    <string name="plus">+</string>
+    <string name="_00">00</string>
+    <string name="equals">=</string>
+    <string name="length">Length</string>
+    <string name="area">Area</string>
+    <string name="mass">Mass</string>
+    <string name="volume">Volume</string>
+    <string name="temp">Temp</string>
+    <string name="speed">Speed</string>
+    <string name="centimeter">centimeter</string>
+    <string name="millimeter">millimeter</string>
+    <string name="decimeter">decimeter</string>
+    <string name="meter">meter</string>
+    <string name="kilometer">kilometer</string>
+    <string name="inch">inch</string>
+    <string name="foot">feet</string>
+    <string name="yard">yard</string>
+    <string name="mile">mile</string>
+    <string name="millimeter2">millimeter^2</string>
+    <string name="centimeter2">centimeter^2</string>
+    <string name="meter2">meter^2</string>
+    <string name="hectare">hectare</string>
+    <string name="kilometer2">kilometer^2</string>
+    <string name="foot2">feet^2</string>
+    <string name="yard2">yard^2</string>
+    <string name="acre">acre</string>
+    <string name="milligram">milligram</string>
+    <string name="gram">gram</string>
+    <string name="kilogram">kilogram</string>
+    <string name="tonne">tonne</string>
+    <string name="ons">ons</string>
+    <string name="libre">libre</string>
+    <string name="kelvin">kelvin</string>
+    <string name="celsius">celsius</string>
+    <string name="fahrenheit">fahrenheit</string>
+    <string name="msn">m/sn</string>
+    <string name="kmh">km/h</string>
+    <string name="ftsn">ft/sn</string>
+    <string name="mih">mi/h</string>
+    <string name="milliliter">milliliter</string>
+    <string name="centimeter3">centimeter^3</string>
+    <string name="decimeter3">decimeter^3</string>
+    <string name="liter">liter</string>
+    <string name="meter3">meter^3</string>
+    <string name="inch3">inc^3</string>
+    <string name="foot3">feet^3</string>
+    <string name="yard3">yard^3</string>
+    <string name="galliq">galon(liquid)</string>
+    <string name="galdry">galon(dry)</string>
+    <string name="sinh">sinh</string>
+    <string name="cosh">cosh</string>
+
+    <string-array name="lengthspin">
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>in</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mi</item>
+    </string-array>
+
+    <string-array name="areaspin">
+        <item>mm^2</item>
+        <item>cm^2</item>
+        <item>m^2</item>
+        <item>ha</item>
+        <item>km^2</item>
+        <item>ft^2</item>
+        <item>yd^2</item>
+        <item>acre</item>
+    </string-array>
+
+    <string-array name="massspin">
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>t</item>
+        <item>oz</item>
+        <item>lb</item>
+    </string-array>
+    <string-array name="volumespin">
+        <item>ml</item>
+        <item>L</item>
+        <item>m^3</item>
+        <item>in^3</item>
+        <item>ft^3</item>
+        <item>yd^3</item>
+        <item>gal liq</item>
+        <item>gal dry</item>
+    </string-array>
+    <string-array name="temperaturespin">
+        <item>K</item>
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="speedspin">
+        <item>m/sn</item>
+        <item>km/h</item>
+        <item>ft/sn</item>
+        <item>mi/h</item>
+    </string-array>
+
+</resources>
